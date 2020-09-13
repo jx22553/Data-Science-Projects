@@ -20,7 +20,7 @@ Based on characteristics describing customers and whether if their loans are alr
 Built a KMeans Cluster model to segment Toronto neighborhoods based on location demographics, frequency of cultural distribution, and median household incomes from web scraping data and the Foursquare API to determine the best location to open a Japanese restaurant.
 
 ### Recommender System
-##### **IMDb Movie Recommendation System**
+##### **Restaurant Recommendation System**
 Utilized a Memory-Based Collaborative Filtering approach to implement User-Item and Item-Item recommendation systems based on IMDb Movie Ratings.
 
 ### Natural Language Processing
