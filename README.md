@@ -21,11 +21,11 @@ Built a KMeans Cluster model to segment Toronto neighborhoods based on location 
 
 ### Recommender System
 ##### **Restaurant Recommendation System**
-Utilized a Memory-Based Collaborative Filtering approach to implement User-Item and Item-Item recommendation systems based on IMDb Movie Ratings.
+Utilized a Memory-Based Collaborative Filtering approach to implement user-based and item-based recommendation systems based on customer ratings of different restaurants
 
 ### Natural Language Processing
 ##### **Natural Language Processing on Yelp Reviews**
-Created a machine learning algorithm, using Python’s NLTK library, that classifies Yelp Reviews into 1 star or 5 star rating based off text content in the reviews.
+Created a machine learning algorithm, using Python’s NLTK library, that classifies Yelp reviews into 1 star or 5 star rating based off of text content in the reviews
 
 ### Artificial Neural Network
 ##### **LendingClub Loan Payoff Likelihood using ANN**
