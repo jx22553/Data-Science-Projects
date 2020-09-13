@@ -15,7 +15,7 @@ Created a binary classification prediction model with the Random Forest algorith
 ##### **Loan Payback Classification**
 Based on characteristics describing customers and whether if their loans are already paid off or defaulted, this projected focused on building a binary classification model to predict the possibility of paying off a loan. Tested against various statistical models, including K-Nearest Neighbor, Decision Tree, Support Vector Machine, and Logistic Regression algorithms, to maximize prediction accuracy.
 
-### Unsupervised Learning
+## Unsupervised Learning
 ##### **Start-up Restaurant: Finding Best Location with Clustering**
 Built a KMeans Cluster model to segment Toronto neighborhoods based on location demographics, frequency of cultural distribution, and median household incomes from web scraping data and the Foursquare API to determine the best location to open a Japanese restaurant.
 
