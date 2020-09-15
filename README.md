@@ -28,5 +28,5 @@ Utilized a Memory-Based Collaborative Filtering approach to implement user-based
 Created a machine learning algorithm, using Python’s NLTK library, that classifies Yelp reviews into 1 star or 5 star rating based off of text content in the reviews
 
 ## Artificial Neural Network
-##### **Deep Learning: LendingClub Loan Payoff Likelihood **
+##### **Deep Learning: LendingClub Loan Payoff Likelihood**
 Engineered an Artificial Neural Network using Python’s TensorFlow Keras API to predict whether a borrower will pay back their loan with over 90% accuracy, given historical data on loans given out by LendingClub.
